@@ -1,8 +1,5 @@
 # SmartHome Hub
 
-# Add later
-# ![SmartHome Logo](link-to-your-logo.png)
-
 ## Overview
 
 This Flutter-based SmartHome Hub Application aims to revolutionize the smart home experience by providing a unified platform to control diverse smart devices. Many smart home gadgets, like Nest thermostats and Ring cameras, often lack compatibility with each other or with universal platforms like HomeKit. As a result, users juggle multiple apps to manage various aspects of their home automation—adjusting Hue lights, locking doors, and setting room temperatures.
