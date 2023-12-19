@@ -37,23 +37,23 @@ This application is built using the Flutter framework, ensuring cross-platform c
    ```
 
 2. Navigate to the project directory:
-```bash
+   ```bash
     cd smarthome
-```
+   ```
 
 3. Install dependencies: 
-```bash
+   ```bash
     flutter pub get
-```
+   ```
 
-4. Add necessary API keys or credentials to the project. [Check Here][.env.example] for the keys needed to run the application. 
+4. Add necessary API keys or credentials to the project. [Check Here](.env.example) for the keys needed to run the application. 
 
 ### Usage
 
 1. Run the application on your desired device(emulator or physical device): 
-```bash
+   ```bash
     flutter run 
-```
+   ```
 
 2. Explore and interact with SmartHome Hub. 
 
