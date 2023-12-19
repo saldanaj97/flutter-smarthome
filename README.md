@@ -46,7 +46,7 @@ This application is built using the Flutter framework, ensuring cross-platform c
     flutter pub get
 ```
 
-4. Add necessary API keys or credentials to the project (check .env.example)
+4. Add necessary API keys or credentials to the project. [Check Here][.env.example] for the keys needed to run the application. 
 
 ### Usage
 
